@@ -1,6 +1,6 @@
 database:
 	username:  root
 	password:  root
-	schema:    unclelu
+	schema:    abtest
 	hostname:  localhost
 	
