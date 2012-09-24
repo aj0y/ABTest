@@ -1,2 +1,9 @@
-initial readme
-a/b testing framework for backend php
+PHP FRAMEWORK TO SETUP A/B Testing on the backend
+
+While working at different levels of startups, I have noticed the constant need to A/B test various aspects of the product. This is a good thing. Any company which has a web application should be constantly A/B testing to improve their site.
+
+A lot of the A/B testing can be done on the frontend and there are very good commercial tools available to do that. Some of these tools are very easy to use, even for non-technical people.( Eg. Visual Website Optimizer, Optimizely, to name a few).
+
+But these tools deal mostly with the frontend and cannot plumb the depths of your backend code which is executed on the server and that is where this framework can be used.
+
+
